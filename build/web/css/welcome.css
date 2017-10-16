@@ -1,0 +1,34 @@
+body{margin-top:20px;}
+.fa-fw {width: 2em;}
+.login-button{margin-top: 15px;}
+
+
+
+#widgets {
+
+    padding: 59px;
+    padding-top: 0px;
+
+}
+
+#results{
+
+    display: block;
+    margin-top: 51px;
+    margin-right: 13px;
+    margin-left: -45px;
+    width: 293px;
+    text-align: center;
+
+}
+
+#calculator {
+
+    display: inline-block;
+}
+
+#logout {
+
+    margin-top: 10px;
+
+}

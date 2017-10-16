@@ -1,0 +1,41 @@
+section {
+    font-size: 1.5rem;
+}
+
+#me {
+    max-width: 211px;
+    border-radius: 117px;
+   
+    margin-top: 10px
+}
+
+ul.job > li > h4 {
+    margin: 0;
+    padding: 0;
+}
+
+.job-title-font, ul.job > li > h4 {
+    font-size: 1.5rem;
+}
+ul.job {
+    padding: 0px;
+    margin: 0px;
+}
+ul {
+    list-style-type: none;
+}
+.techEnviro h4 {
+    margin-right: .5rem;
+    display: inline;
+    font-size: 1.5rem;
+}
+.techEnviro span {
+    font-size: 1.5rem;
+}
+ul.job ul li:before {
+    content: "\f00c";
+    font-family: FontAwesome;
+    display: inline-block;
+    margin-left: -1.3em;
+    width: 1.3em;
+}
